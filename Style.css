@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Styled Page</title>
+    <!-- Links the external CSS file named style.css -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>This is a heading</h1>
+    <p>This is a paragraph.</p>
+</body>
+</html>body {
+  background-color: #f0f0f0; /* sets a light gray background color */
+  font-family: Arial, sans-serif; /* sets the default font */
+  margin: 0; /* removes default browser margin */
+  padding: 20px; /* adds space inside the body element */
+}
+
+h1 {
+  color: #00539f; /* sets the text color to a dark blue */
+  text-align: center; /* centers the heading text */
+  text-shadow: 2px 2px 1px black; /* adds a text shadow */
+}
+
+p {
+  font-size: 16px; /* sets the font size */
+  line-height: 1.5; /* sets the spacing between lines */
+  border: 1px solid black; /* adds a solid black border */
+  padding: 10px; /* adds space inside the border */
+}body{
+  background-color: lightblue;
+  font-family: Arial;
+}
+
+h1{
+  color: red;
+  text-align: center;
+}
+
+p{
+  color: green;
+  font-size: 18px;
+}body{
+  background-color: lightblue;
+  font-family: Arial;
+}
+
+h1{
+  color: red;
+  text-align: center;
+}
+
+p{
+  color: green;
+  font-size: 18px;
+}/* This is a CSS comment */
+selector {
+  property: value;
+  property: value;
+}
